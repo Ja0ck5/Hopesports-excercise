@@ -1,4 +1,5 @@
 .svn
 target
 .classpath
+.settings
 .project
