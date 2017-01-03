@@ -1,4 +1,4 @@
 ## Hopesports-excercise
 
 
-### Spring+SpringMVC+Mybatis+Lvs+Freemarker+Oscached+Memcached(AOP)+Mysql
+### Spring+SpringMVC+Mybatis+Lvs+Keepalived+Freemarker+Oscached+Memcached(AOP)+Mysql
